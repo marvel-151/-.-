@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:#69c50d;
+    padding:5px;
+}
+header a{
+    border: 10px solid rgb(248, 9, 9); 
+}
+h1{background-color:#0c1db6;color:white}
+footer{background-color:#009213;color:rgb(0, 239, 239)}
+nav{background-color:#71ad00;}
+nav a{color:rgb(163, 0, 239)}
